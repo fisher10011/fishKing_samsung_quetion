@@ -1,0 +1,4 @@
+﻿  example_1.cpp
+c:\users\허병우\source\repos\testsolution\test\example_1.cpp(18): warning C4101: 'data2' :참조되지 않은 지역 변수입니다.
+c:\users\허병우\source\repos\testsolution\test\example_1.cpp(18): warning C4101: 'data1' :참조되지 않은 지역 변수입니다.
+  test.vcxproj -> C:\Users\허병우\source\repos\testSolution\Debug\test.exe
